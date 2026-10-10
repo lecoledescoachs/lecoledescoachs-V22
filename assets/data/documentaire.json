@@ -1,0 +1,667 @@
+{
+  "seasons": [
+    {
+      "num": 1,
+      "title": "Les Fondations",
+      "playlist": "https://www.youtube.com/playlist?list=PLIiX5EM8bmOwhWgnwHGwhP-1H6h1GSDFo",
+      "direction": "ltr",
+      "count": 52,
+      "episodes": [
+        {
+          "id": "Crs7IfATiuw",
+          "ep": 1,
+          "watch": "https://www.youtube.com/watch?v=Crs7IfATiuw",
+          "thumb": "https://i.ytimg.com/vi/Crs7IfATiuw/hqdefault.jpg"
+        },
+        {
+          "id": "PjK4ayGk-LI",
+          "ep": 2,
+          "watch": "https://www.youtube.com/watch?v=PjK4ayGk-LI",
+          "thumb": "https://i.ytimg.com/vi/PjK4ayGk-LI/hqdefault.jpg"
+        },
+        {
+          "id": "MWzvuSXDwU4",
+          "ep": 3,
+          "watch": "https://www.youtube.com/watch?v=MWzvuSXDwU4",
+          "thumb": "https://i.ytimg.com/vi/MWzvuSXDwU4/hqdefault.jpg"
+        },
+        {
+          "id": "ioFcoK7tMaI",
+          "ep": 4,
+          "watch": "https://www.youtube.com/watch?v=ioFcoK7tMaI",
+          "thumb": "https://i.ytimg.com/vi/ioFcoK7tMaI/hqdefault.jpg"
+        },
+        {
+          "id": "hp0S3_fWBbE",
+          "ep": 5,
+          "watch": "https://www.youtube.com/watch?v=hp0S3_fWBbE",
+          "thumb": "https://i.ytimg.com/vi/hp0S3_fWBbE/hqdefault.jpg"
+        },
+        {
+          "id": "fh3y0RCAbGQ",
+          "ep": 6,
+          "watch": "https://www.youtube.com/watch?v=fh3y0RCAbGQ",
+          "thumb": "https://i.ytimg.com/vi/fh3y0RCAbGQ/hqdefault.jpg"
+        },
+        {
+          "id": "Cy-n-dNTKiE",
+          "ep": 7,
+          "watch": "https://www.youtube.com/watch?v=Cy-n-dNTKiE",
+          "thumb": "https://i.ytimg.com/vi/Cy-n-dNTKiE/hqdefault.jpg"
+        },
+        {
+          "id": "ptH3pj6Ycv0",
+          "ep": 8,
+          "watch": "https://www.youtube.com/watch?v=ptH3pj6Ycv0",
+          "thumb": "https://i.ytimg.com/vi/ptH3pj6Ycv0/hqdefault.jpg"
+        },
+        {
+          "id": "S3kabvDUDI0",
+          "ep": 9,
+          "watch": "https://www.youtube.com/watch?v=S3kabvDUDI0",
+          "thumb": "https://i.ytimg.com/vi/S3kabvDUDI0/hqdefault.jpg"
+        },
+        {
+          "id": "9xz1Kq6COHs",
+          "ep": 10,
+          "watch": "https://www.youtube.com/watch?v=9xz1Kq6COHs",
+          "thumb": "https://i.ytimg.com/vi/9xz1Kq6COHs/hqdefault.jpg"
+        },
+        {
+          "id": "mE-Ug75zk1I",
+          "ep": 11,
+          "watch": "https://www.youtube.com/watch?v=mE-Ug75zk1I",
+          "thumb": "https://i.ytimg.com/vi/mE-Ug75zk1I/hqdefault.jpg"
+        },
+        {
+          "id": "kgqQ2dZ3OqU",
+          "ep": 12,
+          "watch": "https://www.youtube.com/watch?v=kgqQ2dZ3OqU",
+          "thumb": "https://i.ytimg.com/vi/kgqQ2dZ3OqU/hqdefault.jpg"
+        },
+        {
+          "id": "vL1nOnrRr8E",
+          "ep": 13,
+          "watch": "https://www.youtube.com/watch?v=vL1nOnrRr8E",
+          "thumb": "https://i.ytimg.com/vi/vL1nOnrRr8E/hqdefault.jpg"
+        },
+        {
+          "id": "TvpGa1CVpRQ",
+          "ep": 14,
+          "watch": "https://www.youtube.com/watch?v=TvpGa1CVpRQ",
+          "thumb": "https://i.ytimg.com/vi/TvpGa1CVpRQ/hqdefault.jpg"
+        },
+        {
+          "id": "-0sRpjuUvJo",
+          "ep": 15,
+          "watch": "https://www.youtube.com/watch?v=-0sRpjuUvJo",
+          "thumb": "https://i.ytimg.com/vi/-0sRpjuUvJo/hqdefault.jpg"
+        },
+        {
+          "id": "Wb-mrOXHoPE",
+          "ep": 16,
+          "watch": "https://www.youtube.com/watch?v=Wb-mrOXHoPE",
+          "thumb": "https://i.ytimg.com/vi/Wb-mrOXHoPE/hqdefault.jpg"
+        },
+        {
+          "id": "Z3tuDANhJAQ",
+          "ep": 17,
+          "watch": "https://www.youtube.com/watch?v=Z3tuDANhJAQ",
+          "thumb": "https://i.ytimg.com/vi/Z3tuDANhJAQ/hqdefault.jpg"
+        },
+        {
+          "id": "Seb-F5mR-iY",
+          "ep": 18,
+          "watch": "https://www.youtube.com/watch?v=Seb-F5mR-iY",
+          "thumb": "https://i.ytimg.com/vi/Seb-F5mR-iY/hqdefault.jpg"
+        },
+        {
+          "id": "1lr2KEQbE8I",
+          "ep": 19,
+          "watch": "https://www.youtube.com/watch?v=1lr2KEQbE8I",
+          "thumb": "https://i.ytimg.com/vi/1lr2KEQbE8I/hqdefault.jpg"
+        },
+        {
+          "id": "pSdSRTnE9S8",
+          "ep": 20,
+          "watch": "https://www.youtube.com/watch?v=pSdSRTnE9S8",
+          "thumb": "https://i.ytimg.com/vi/pSdSRTnE9S8/hqdefault.jpg"
+        },
+        {
+          "id": "THXnwHMTSko",
+          "ep": 21,
+          "watch": "https://www.youtube.com/watch?v=THXnwHMTSko",
+          "thumb": "https://i.ytimg.com/vi/THXnwHMTSko/hqdefault.jpg"
+        },
+        {
+          "id": "3PvAVvBElWs",
+          "ep": 22,
+          "watch": "https://www.youtube.com/watch?v=3PvAVvBElWs",
+          "thumb": "https://i.ytimg.com/vi/3PvAVvBElWs/hqdefault.jpg"
+        },
+        {
+          "id": "o2-Hfg1Gqc8",
+          "ep": 23,
+          "watch": "https://www.youtube.com/watch?v=o2-Hfg1Gqc8",
+          "thumb": "https://i.ytimg.com/vi/o2-Hfg1Gqc8/hqdefault.jpg"
+        },
+        {
+          "id": "_5M6Ncb5rgg",
+          "ep": 24,
+          "watch": "https://www.youtube.com/watch?v=_5M6Ncb5rgg",
+          "thumb": "https://i.ytimg.com/vi/_5M6Ncb5rgg/hqdefault.jpg"
+        },
+        {
+          "id": "mXVwUjBI4-g",
+          "ep": 25,
+          "watch": "https://www.youtube.com/watch?v=mXVwUjBI4-g",
+          "thumb": "https://i.ytimg.com/vi/mXVwUjBI4-g/hqdefault.jpg"
+        },
+        {
+          "id": "haSIl-GR5J8",
+          "ep": 26,
+          "watch": "https://www.youtube.com/watch?v=haSIl-GR5J8",
+          "thumb": "https://i.ytimg.com/vi/haSIl-GR5J8/hqdefault.jpg"
+        },
+        {
+          "id": "eROeGxmbZqY",
+          "ep": 27,
+          "watch": "https://www.youtube.com/watch?v=eROeGxmbZqY",
+          "thumb": "https://i.ytimg.com/vi/eROeGxmbZqY/hqdefault.jpg"
+        },
+        {
+          "id": "v2_8HG2Xjy0",
+          "ep": 28,
+          "watch": "https://www.youtube.com/watch?v=v2_8HG2Xjy0",
+          "thumb": "https://i.ytimg.com/vi/v2_8HG2Xjy0/hqdefault.jpg"
+        },
+        {
+          "id": "O5RhuyR4_i4",
+          "ep": 29,
+          "watch": "https://www.youtube.com/watch?v=O5RhuyR4_i4",
+          "thumb": "https://i.ytimg.com/vi/O5RhuyR4_i4/hqdefault.jpg"
+        },
+        {
+          "id": "CK1aLRxrwJY",
+          "ep": 30,
+          "watch": "https://www.youtube.com/watch?v=CK1aLRxrwJY",
+          "thumb": "https://i.ytimg.com/vi/CK1aLRxrwJY/hqdefault.jpg"
+        },
+        {
+          "id": "l2olxiJXdIw",
+          "ep": 31,
+          "watch": "https://www.youtube.com/watch?v=l2olxiJXdIw",
+          "thumb": "https://i.ytimg.com/vi/l2olxiJXdIw/hqdefault.jpg"
+        },
+        {
+          "id": "aQCVFZYx2_g",
+          "ep": 32,
+          "watch": "https://www.youtube.com/watch?v=aQCVFZYx2_g",
+          "thumb": "https://i.ytimg.com/vi/aQCVFZYx2_g/hqdefault.jpg"
+        },
+        {
+          "id": "ix9BnVCXHWE",
+          "ep": 33,
+          "watch": "https://www.youtube.com/watch?v=ix9BnVCXHWE",
+          "thumb": "https://i.ytimg.com/vi/ix9BnVCXHWE/hqdefault.jpg"
+        },
+        {
+          "id": "ILFvLldTOdc",
+          "ep": 34,
+          "watch": "https://www.youtube.com/watch?v=ILFvLldTOdc",
+          "thumb": "https://i.ytimg.com/vi/ILFvLldTOdc/hqdefault.jpg"
+        },
+        {
+          "id": "zUQviSM6gW4",
+          "ep": 35,
+          "watch": "https://www.youtube.com/watch?v=zUQviSM6gW4",
+          "thumb": "https://i.ytimg.com/vi/zUQviSM6gW4/hqdefault.jpg"
+        },
+        {
+          "id": "iXIDeb1bvRw",
+          "ep": 36,
+          "watch": "https://www.youtube.com/watch?v=iXIDeb1bvRw",
+          "thumb": "https://i.ytimg.com/vi/iXIDeb1bvRw/hqdefault.jpg"
+        },
+        {
+          "id": "re5KSc6M-hc",
+          "ep": 37,
+          "watch": "https://www.youtube.com/watch?v=re5KSc6M-hc",
+          "thumb": "https://i.ytimg.com/vi/re5KSc6M-hc/hqdefault.jpg"
+        },
+        {
+          "id": "mADLB4u7ZRo",
+          "ep": 38,
+          "watch": "https://www.youtube.com/watch?v=mADLB4u7ZRo",
+          "thumb": "https://i.ytimg.com/vi/mADLB4u7ZRo/hqdefault.jpg"
+        },
+        {
+          "id": "EhlUw2IXevY",
+          "ep": 39,
+          "watch": "https://www.youtube.com/watch?v=EhlUw2IXevY",
+          "thumb": "https://i.ytimg.com/vi/EhlUw2IXevY/hqdefault.jpg"
+        },
+        {
+          "id": "eguKT3tjRa4",
+          "ep": 40,
+          "watch": "https://www.youtube.com/watch?v=eguKT3tjRa4",
+          "thumb": "https://i.ytimg.com/vi/eguKT3tjRa4/hqdefault.jpg"
+        },
+        {
+          "id": "APX5bLP8Pxo",
+          "ep": 41,
+          "watch": "https://www.youtube.com/watch?v=APX5bLP8Pxo",
+          "thumb": "https://i.ytimg.com/vi/APX5bLP8Pxo/hqdefault.jpg"
+        },
+        {
+          "id": "lQ8McHEg7e8",
+          "ep": 42,
+          "watch": "https://www.youtube.com/watch?v=lQ8McHEg7e8",
+          "thumb": "https://i.ytimg.com/vi/lQ8McHEg7e8/hqdefault.jpg"
+        },
+        {
+          "id": "-K6Ws4ZhxXo",
+          "ep": 43,
+          "watch": "https://www.youtube.com/watch?v=-K6Ws4ZhxXo",
+          "thumb": "https://i.ytimg.com/vi/-K6Ws4ZhxXo/hqdefault.jpg"
+        },
+        {
+          "id": "fmKPFxERueI",
+          "ep": 44,
+          "watch": "https://www.youtube.com/watch?v=fmKPFxERueI",
+          "thumb": "https://i.ytimg.com/vi/fmKPFxERueI/hqdefault.jpg"
+        },
+        {
+          "id": "GzTEHhs6nWk",
+          "ep": 45,
+          "watch": "https://www.youtube.com/watch?v=GzTEHhs6nWk",
+          "thumb": "https://i.ytimg.com/vi/GzTEHhs6nWk/hqdefault.jpg"
+        },
+        {
+          "id": "7MOe4OU2f7M",
+          "ep": 46,
+          "watch": "https://www.youtube.com/watch?v=7MOe4OU2f7M",
+          "thumb": "https://i.ytimg.com/vi/7MOe4OU2f7M/hqdefault.jpg"
+        },
+        {
+          "id": "jfGXWsjMICI",
+          "ep": 47,
+          "watch": "https://www.youtube.com/watch?v=jfGXWsjMICI",
+          "thumb": "https://i.ytimg.com/vi/jfGXWsjMICI/hqdefault.jpg"
+        },
+        {
+          "id": "OVbjvFRyCtw",
+          "ep": 48,
+          "watch": "https://www.youtube.com/watch?v=OVbjvFRyCtw",
+          "thumb": "https://i.ytimg.com/vi/OVbjvFRyCtw/hqdefault.jpg"
+        },
+        {
+          "id": "Owo1cDCwGlo",
+          "ep": 49,
+          "watch": "https://www.youtube.com/watch?v=Owo1cDCwGlo",
+          "thumb": "https://i.ytimg.com/vi/Owo1cDCwGlo/hqdefault.jpg"
+        },
+        {
+          "id": "AWotksrKKug",
+          "ep": 50,
+          "watch": "https://www.youtube.com/watch?v=AWotksrKKug",
+          "thumb": "https://i.ytimg.com/vi/AWotksrKKug/hqdefault.jpg"
+        },
+        {
+          "id": "tuKTjQ4r0Ng",
+          "ep": 51,
+          "watch": "https://www.youtube.com/watch?v=tuKTjQ4r0Ng",
+          "thumb": "https://i.ytimg.com/vi/tuKTjQ4r0Ng/hqdefault.jpg"
+        },
+        {
+          "id": "Jj2WrMSNRMY",
+          "ep": 52,
+          "watch": "https://www.youtube.com/watch?v=Jj2WrMSNRMY",
+          "thumb": "https://i.ytimg.com/vi/Jj2WrMSNRMY/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "La Réalité",
+      "playlist": "https://www.youtube.com/playlist?list=PLIiX5EM8bmOy60q3tVg1MElnsMYx5d5YI",
+      "direction": "rtl",
+      "count": 36,
+      "episodes": [
+        {
+          "id": "Fb-v-pXIPkI",
+          "ep": 1,
+          "watch": "https://www.youtube.com/watch?v=Fb-v-pXIPkI",
+          "thumb": "https://i.ytimg.com/vi/Fb-v-pXIPkI/hqdefault.jpg"
+        },
+        {
+          "id": "q5uI45n7UXQ",
+          "ep": 2,
+          "watch": "https://www.youtube.com/watch?v=q5uI45n7UXQ",
+          "thumb": "https://i.ytimg.com/vi/q5uI45n7UXQ/hqdefault.jpg"
+        },
+        {
+          "id": "bcQSIoWKbsY",
+          "ep": 3,
+          "watch": "https://www.youtube.com/watch?v=bcQSIoWKbsY",
+          "thumb": "https://i.ytimg.com/vi/bcQSIoWKbsY/hqdefault.jpg"
+        },
+        {
+          "id": "cNsP_E2uhHc",
+          "ep": 4,
+          "watch": "https://www.youtube.com/watch?v=cNsP_E2uhHc",
+          "thumb": "https://i.ytimg.com/vi/cNsP_E2uhHc/hqdefault.jpg"
+        },
+        {
+          "id": "MyM_8LJPSR0",
+          "ep": 5,
+          "watch": "https://www.youtube.com/watch?v=MyM_8LJPSR0",
+          "thumb": "https://i.ytimg.com/vi/MyM_8LJPSR0/hqdefault.jpg"
+        },
+        {
+          "id": "Z0YUOsmAiMQ",
+          "ep": 6,
+          "watch": "https://www.youtube.com/watch?v=Z0YUOsmAiMQ",
+          "thumb": "https://i.ytimg.com/vi/Z0YUOsmAiMQ/hqdefault.jpg"
+        },
+        {
+          "id": "Z-1A8G3lbhg",
+          "ep": 7,
+          "watch": "https://www.youtube.com/watch?v=Z-1A8G3lbhg",
+          "thumb": "https://i.ytimg.com/vi/Z-1A8G3lbhg/hqdefault.jpg"
+        },
+        {
+          "id": "w08bP8Y8_00",
+          "ep": 8,
+          "watch": "https://www.youtube.com/watch?v=w08bP8Y8_00",
+          "thumb": "https://i.ytimg.com/vi/w08bP8Y8_00/hqdefault.jpg"
+        },
+        {
+          "id": "Np941vvGV60",
+          "ep": 9,
+          "watch": "https://www.youtube.com/watch?v=Np941vvGV60",
+          "thumb": "https://i.ytimg.com/vi/Np941vvGV60/hqdefault.jpg"
+        },
+        {
+          "id": "QOwmCIV2mrk",
+          "ep": 10,
+          "watch": "https://www.youtube.com/watch?v=QOwmCIV2mrk",
+          "thumb": "https://i.ytimg.com/vi/QOwmCIV2mrk/hqdefault.jpg"
+        },
+        {
+          "id": "QADrA6zJxCs",
+          "ep": 11,
+          "watch": "https://www.youtube.com/watch?v=QADrA6zJxCs",
+          "thumb": "https://i.ytimg.com/vi/QADrA6zJxCs/hqdefault.jpg"
+        },
+        {
+          "id": "JbErs9QjAVA",
+          "ep": 12,
+          "watch": "https://www.youtube.com/watch?v=JbErs9QjAVA",
+          "thumb": "https://i.ytimg.com/vi/JbErs9QjAVA/hqdefault.jpg"
+        },
+        {
+          "id": "ifYJGtKAE1o",
+          "ep": 13,
+          "watch": "https://www.youtube.com/watch?v=ifYJGtKAE1o",
+          "thumb": "https://i.ytimg.com/vi/ifYJGtKAE1o/hqdefault.jpg"
+        },
+        {
+          "id": "02MFUo0QV5A",
+          "ep": 14,
+          "watch": "https://www.youtube.com/watch?v=02MFUo0QV5A",
+          "thumb": "https://i.ytimg.com/vi/02MFUo0QV5A/hqdefault.jpg"
+        },
+        {
+          "id": "Sa0D3jKl95c",
+          "ep": 15,
+          "watch": "https://www.youtube.com/watch?v=Sa0D3jKl95c",
+          "thumb": "https://i.ytimg.com/vi/Sa0D3jKl95c/hqdefault.jpg"
+        },
+        {
+          "id": "LrnTSubgOGU",
+          "ep": 16,
+          "watch": "https://www.youtube.com/watch?v=LrnTSubgOGU",
+          "thumb": "https://i.ytimg.com/vi/LrnTSubgOGU/hqdefault.jpg"
+        },
+        {
+          "id": "LXiTSCi2HcU",
+          "ep": 17,
+          "watch": "https://www.youtube.com/watch?v=LXiTSCi2HcU",
+          "thumb": "https://i.ytimg.com/vi/LXiTSCi2HcU/hqdefault.jpg"
+        },
+        {
+          "id": "cEelNVpIqxU",
+          "ep": 18,
+          "watch": "https://www.youtube.com/watch?v=cEelNVpIqxU",
+          "thumb": "https://i.ytimg.com/vi/cEelNVpIqxU/hqdefault.jpg"
+        },
+        {
+          "id": "ONaU3bANtDE",
+          "ep": 19,
+          "watch": "https://www.youtube.com/watch?v=ONaU3bANtDE",
+          "thumb": "https://i.ytimg.com/vi/ONaU3bANtDE/hqdefault.jpg"
+        },
+        {
+          "id": "-eFsEy5NNDM",
+          "ep": 20,
+          "watch": "https://www.youtube.com/watch?v=-eFsEy5NNDM",
+          "thumb": "https://i.ytimg.com/vi/-eFsEy5NNDM/hqdefault.jpg"
+        },
+        {
+          "id": "mYV7SZ_NtQM",
+          "ep": 21,
+          "watch": "https://www.youtube.com/watch?v=mYV7SZ_NtQM",
+          "thumb": "https://i.ytimg.com/vi/mYV7SZ_NtQM/hqdefault.jpg"
+        },
+        {
+          "id": "jfHw6dF0IC8",
+          "ep": 22,
+          "watch": "https://www.youtube.com/watch?v=jfHw6dF0IC8",
+          "thumb": "https://i.ytimg.com/vi/jfHw6dF0IC8/hqdefault.jpg"
+        },
+        {
+          "id": "Ax86RmSNCHU",
+          "ep": 23,
+          "watch": "https://www.youtube.com/watch?v=Ax86RmSNCHU",
+          "thumb": "https://i.ytimg.com/vi/Ax86RmSNCHU/hqdefault.jpg"
+        },
+        {
+          "id": "ANctLhD5xsY",
+          "ep": 24,
+          "watch": "https://www.youtube.com/watch?v=ANctLhD5xsY",
+          "thumb": "https://i.ytimg.com/vi/ANctLhD5xsY/hqdefault.jpg"
+        },
+        {
+          "id": "tAnfX2uilYU",
+          "ep": 25,
+          "watch": "https://www.youtube.com/watch?v=tAnfX2uilYU",
+          "thumb": "https://i.ytimg.com/vi/tAnfX2uilYU/hqdefault.jpg"
+        },
+        {
+          "id": "OPXps903cUk",
+          "ep": 26,
+          "watch": "https://www.youtube.com/watch?v=OPXps903cUk",
+          "thumb": "https://i.ytimg.com/vi/OPXps903cUk/hqdefault.jpg"
+        },
+        {
+          "id": "WcU6ilIw2kE",
+          "ep": 27,
+          "watch": "https://www.youtube.com/watch?v=WcU6ilIw2kE",
+          "thumb": "https://i.ytimg.com/vi/WcU6ilIw2kE/hqdefault.jpg"
+        },
+        {
+          "id": "ke5DMs3aOGU",
+          "ep": 28,
+          "watch": "https://www.youtube.com/watch?v=ke5DMs3aOGU",
+          "thumb": "https://i.ytimg.com/vi/ke5DMs3aOGU/hqdefault.jpg"
+        },
+        {
+          "id": "7uy2mtwpP-c",
+          "ep": 29,
+          "watch": "https://www.youtube.com/watch?v=7uy2mtwpP-c",
+          "thumb": "https://i.ytimg.com/vi/7uy2mtwpP-c/hqdefault.jpg"
+        },
+        {
+          "id": "_nUVCiIYWOo",
+          "ep": 30,
+          "watch": "https://www.youtube.com/watch?v=_nUVCiIYWOo",
+          "thumb": "https://i.ytimg.com/vi/_nUVCiIYWOo/hqdefault.jpg"
+        },
+        {
+          "id": "70SCQzcTzM4",
+          "ep": 31,
+          "watch": "https://www.youtube.com/watch?v=70SCQzcTzM4",
+          "thumb": "https://i.ytimg.com/vi/70SCQzcTzM4/hqdefault.jpg"
+        },
+        {
+          "id": "bdJlCzLxFEg",
+          "ep": 32,
+          "watch": "https://www.youtube.com/watch?v=bdJlCzLxFEg",
+          "thumb": "https://i.ytimg.com/vi/bdJlCzLxFEg/hqdefault.jpg"
+        },
+        {
+          "id": "NrmsFuwoS6w",
+          "ep": 33,
+          "watch": "https://www.youtube.com/watch?v=NrmsFuwoS6w",
+          "thumb": "https://i.ytimg.com/vi/NrmsFuwoS6w/hqdefault.jpg"
+        },
+        {
+          "id": "tPPWRwP7k7o",
+          "ep": 34,
+          "watch": "https://www.youtube.com/watch?v=tPPWRwP7k7o",
+          "thumb": "https://i.ytimg.com/vi/tPPWRwP7k7o/hqdefault.jpg"
+        },
+        {
+          "id": "ydC7URmVKXQ",
+          "ep": 35,
+          "watch": "https://www.youtube.com/watch?v=ydC7URmVKXQ",
+          "thumb": "https://i.ytimg.com/vi/ydC7URmVKXQ/hqdefault.jpg"
+        },
+        {
+          "id": "gFknTWPa3Cw",
+          "ep": 36,
+          "watch": "https://www.youtube.com/watch?v=gFknTWPa3Cw",
+          "thumb": "https://i.ytimg.com/vi/gFknTWPa3Cw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Les Origines",
+      "playlist": "https://www.youtube.com/playlist?list=PLIiX5EM8bmOyJjsP3URuwba_WHI81GVUx",
+      "direction": "ltr",
+      "count": 18,
+      "episodes": [
+        {
+          "id": "Irj2z-CZdM8",
+          "ep": 1,
+          "watch": "https://www.youtube.com/watch?v=Irj2z-CZdM8",
+          "thumb": "https://i.ytimg.com/vi/Irj2z-CZdM8/hqdefault.jpg"
+        },
+        {
+          "id": "stelzzuzeyE",
+          "ep": 2,
+          "watch": "https://www.youtube.com/watch?v=stelzzuzeyE",
+          "thumb": "https://i.ytimg.com/vi/stelzzuzeyE/hqdefault.jpg"
+        },
+        {
+          "id": "IAzYAPDRswU",
+          "ep": 3,
+          "watch": "https://www.youtube.com/watch?v=IAzYAPDRswU",
+          "thumb": "https://i.ytimg.com/vi/IAzYAPDRswU/hqdefault.jpg"
+        },
+        {
+          "id": "KLEi9R3YKXo",
+          "ep": 4,
+          "watch": "https://www.youtube.com/watch?v=KLEi9R3YKXo",
+          "thumb": "https://i.ytimg.com/vi/KLEi9R3YKXo/hqdefault.jpg"
+        },
+        {
+          "id": "WLnuF_bXd0I",
+          "ep": 5,
+          "watch": "https://www.youtube.com/watch?v=WLnuF_bXd0I",
+          "thumb": "https://i.ytimg.com/vi/WLnuF_bXd0I/hqdefault.jpg"
+        },
+        {
+          "id": "ZcCXxKoeMF0",
+          "ep": 6,
+          "watch": "https://www.youtube.com/watch?v=ZcCXxKoeMF0",
+          "thumb": "https://i.ytimg.com/vi/ZcCXxKoeMF0/hqdefault.jpg"
+        },
+        {
+          "id": "EMHog4W-_7I",
+          "ep": 7,
+          "watch": "https://www.youtube.com/watch?v=EMHog4W-_7I",
+          "thumb": "https://i.ytimg.com/vi/EMHog4W-_7I/hqdefault.jpg"
+        },
+        {
+          "id": "WHLKfRFAGoM",
+          "ep": 8,
+          "watch": "https://www.youtube.com/watch?v=WHLKfRFAGoM",
+          "thumb": "https://i.ytimg.com/vi/WHLKfRFAGoM/hqdefault.jpg"
+        },
+        {
+          "id": "pfYBIHx6yUE",
+          "ep": 9,
+          "watch": "https://www.youtube.com/watch?v=pfYBIHx6yUE",
+          "thumb": "https://i.ytimg.com/vi/pfYBIHx6yUE/hqdefault.jpg"
+        },
+        {
+          "id": "dFjF81rNko0",
+          "ep": 10,
+          "watch": "https://www.youtube.com/watch?v=dFjF81rNko0",
+          "thumb": "https://i.ytimg.com/vi/dFjF81rNko0/hqdefault.jpg"
+        },
+        {
+          "id": "br9ajQouWpY",
+          "ep": 11,
+          "watch": "https://www.youtube.com/watch?v=br9ajQouWpY",
+          "thumb": "https://i.ytimg.com/vi/br9ajQouWpY/hqdefault.jpg"
+        },
+        {
+          "id": "5O3RXq1vu-4",
+          "ep": 12,
+          "watch": "https://www.youtube.com/watch?v=5O3RXq1vu-4",
+          "thumb": "https://i.ytimg.com/vi/5O3RXq1vu-4/hqdefault.jpg"
+        },
+        {
+          "id": "vuWI5yH5XCY",
+          "ep": 13,
+          "watch": "https://www.youtube.com/watch?v=vuWI5yH5XCY",
+          "thumb": "https://i.ytimg.com/vi/vuWI5yH5XCY/hqdefault.jpg"
+        },
+        {
+          "id": "6ubya2kcoWU",
+          "ep": 14,
+          "watch": "https://www.youtube.com/watch?v=6ubya2kcoWU",
+          "thumb": "https://i.ytimg.com/vi/6ubya2kcoWU/hqdefault.jpg"
+        },
+        {
+          "id": "muhD2YCOe0M",
+          "ep": 15,
+          "watch": "https://www.youtube.com/watch?v=muhD2YCOe0M",
+          "thumb": "https://i.ytimg.com/vi/muhD2YCOe0M/hqdefault.jpg"
+        },
+        {
+          "id": "r9DjK1ubUSk",
+          "ep": 16,
+          "watch": "https://www.youtube.com/watch?v=r9DjK1ubUSk",
+          "thumb": "https://i.ytimg.com/vi/r9DjK1ubUSk/hqdefault.jpg"
+        },
+        {
+          "id": "cqyg7bc6Leg",
+          "ep": 17,
+          "watch": "https://www.youtube.com/watch?v=cqyg7bc6Leg",
+          "thumb": "https://i.ytimg.com/vi/cqyg7bc6Leg/hqdefault.jpg"
+        },
+        {
+          "id": "0bIynfl73Jk",
+          "ep": 18,
+          "watch": "https://www.youtube.com/watch?v=0bIynfl73Jk",
+          "thumb": "https://i.ytimg.com/vi/0bIynfl73Jk/hqdefault.jpg"
+        }
+      ]
+    }
+  ]
+}

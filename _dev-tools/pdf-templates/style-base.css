@@ -1,0 +1,26 @@
+/* Style de base pour les documents PDF (CGV, plaquettes, calendriers imprimables).
+   Noir sur blanc, distinct du thème sombre du site web (voir DEVELOPPEUR.md 4.2).
+   Compatible wkhtmltopdf (float plutôt que flexbox/grid, voir contraintes en 4.2). */
+
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Helvetica, Arial, sans-serif; color: #111; }
+.page { padding: 30px 40px 40px; page-break-after: always; }
+.page:last-child { page-break-after: auto; }
+
+.cover-title { font-size: 32px; font-weight: 900; margin-bottom: 6px; }
+.cover-sub { font-size: 14px; font-weight: 700; color: #444; letter-spacing: .5px; }
+.cover-rule { height: 3px; background: #111; width: 60px; margin: 16px 0 24px; }
+
+.cover-intro { overflow: hidden; background: #f4f4f4; border-radius: 10px; padding: 20px 24px; margin-bottom: 24px; }
+.icon-badge { float: left; width: 32px; height: 32px; margin-right: 16px; }
+.icon-badge .dot { width: 32px; height: 32px; background: #111; border-radius: 50%; }
+.cover-intro p { margin: 0; font-size: 13px; line-height: 1.7; }
+
+.banner { background: #111; color: #fff; padding: 10px 16px; font-weight: 800; font-size: 13px; letter-spacing: .3px; margin-bottom: 16px; }
+
+.doc-table { width: 100%; border-collapse: collapse; margin: 12px 0; }
+.doc-table th { background: #111; color: #fff; text-align: left; padding: 8px 12px; font-size: 11px; }
+.doc-table td { padding: 8px 12px; border-bottom: 1px solid #e2e2e2; font-size: 11px; }
+.doc-table tr:nth-child(even) td { background: #f7f7f7; }
+
+.small-note { font-size: 9.5px; color: #888; margin-top: 16px; line-height: 1.6; }

@@ -1,0 +1,9 @@
+{
+  "_meta": {
+    "description": "Base des centres proposant des formations PSC1, utilisee par l'outil de recherche du site lecoledescoachs.fr",
+    "schema_version": 2,
+    "derniere_verification_globale": null,
+    "note": "Ce fichier est intentionnellement vide au lancement de l'outil. Aucun centre fictif n'a ete ajoute. Seuls les centres avec statut 'verifie' sont affiches publiquement par le front-end. Voir GUIDE-BASE-PSC1.md pour le format exact et la procedure d'ajout."
+  },
+  "centres": []
+}

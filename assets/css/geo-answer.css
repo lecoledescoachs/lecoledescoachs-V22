@@ -1,0 +1,13 @@
+/* ───────── Bloc de réponse « l'essentiel » (SEO et réponses de Google) ───────── */
+.geo-answer-wrap { padding: 40px 0 8px; }
+.geo-answer { max-width: 860px; margin: 0 auto; background: var(--black-2); border: 1px solid var(--border); border-radius: 18px; padding: 28px 30px; }
+.geo-answer h2 { font-family: "DM Serif Display", Georgia, serif; font-style: italic; font-weight: 400; font-size: clamp(1.35rem, 2.6vw, 1.8rem); line-height: 1.2; color: var(--white); margin: 0 0 14px; }
+.geo-answer p { font-size: .94rem; line-height: 1.75; color: var(--white-90); margin: 0; }
+.geo-answer p strong, .geo-answer li strong { color: var(--white); font-weight: 600; }
+.geo-answer ul { list-style: none; margin: 18px 0 0; padding: 0; display: grid; gap: 10px; }
+.geo-answer li { font-size: .9rem; line-height: 1.6; color: var(--white-90); padding-left: 18px; position: relative; }
+.geo-answer li::before { content: ""; position: absolute; left: 0; top: .62em; width: 6px; height: 6px; border-radius: 50%; background: var(--white); opacity: .55; }
+.geo-answer .geo-links { margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--border); font-size: .84rem; color: var(--light); }
+.geo-answer .geo-links a { color: var(--white); text-decoration: underline; text-underline-offset: 3px; }
+@media (max-width: 600px) { .geo-answer-wrap { padding: 28px 0 4px; } .geo-answer { padding: 22px 20px; border-radius: 14px; } }
+.geo-answer .geo-lead { font-size: 1rem; line-height: 1.7; margin-bottom: 14px; }

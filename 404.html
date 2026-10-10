@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="dark">
+<head>
+<link rel="stylesheet" href="/assets/css/shared-base.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, follow">
+<title>Bah alors, tu t'es perdu ? · L'École des Coachs</title>
+<meta name="description" content="Cette page n'existe pas ou plus. Retrouve le CQP IF, la Prépa TEP et toutes les infos de L'École des Coachs.">
+<script>(function(){var t=localStorage.getItem('leco-theme');if(!t){t=window.matchMedia('(prefers-color-scheme: light)').matches?'light':'dark';}document.documentElement.setAttribute('data-theme',t);})();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"></noscript>
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" href="assets/logo/favicon-512.png" type="image/png" sizes="512x512">
+<link rel="apple-touch-icon" href="assets/logo/apple-touch-icon.png">
+<style>
+  .nf-wrap{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:40px 24px;position:relative;overflow:hidden}
+
+  .nf-bg-item{position:absolute;font-size:1.8rem;opacity:.12;animation:nfFloat 7s ease-in-out infinite;pointer-events:none;user-select:none}
+  .nf-bg-item:nth-child(1){top:12%;left:8%;animation-delay:0s;font-size:2.4rem}
+  .nf-bg-item:nth-child(2){top:22%;right:10%;animation-delay:1.2s;font-size:1.6rem}
+  .nf-bg-item:nth-child(3){bottom:18%;left:12%;animation-delay:2.4s;font-size:2rem}
+  .nf-bg-item:nth-child(4){bottom:28%;right:14%;animation-delay:.6s;font-size:2.8rem}
+  .nf-bg-item:nth-child(5){top:48%;left:4%;animation-delay:1.8s;font-size:1.4rem}
+  .nf-bg-item:nth-child(6){top:65%;right:6%;animation-delay:3s;font-size:2.2rem}
+  @keyframes nfFloat{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-22px) rotate(8deg)}}
+  @media (prefers-reduced-motion:reduce){.nf-bg-item{animation:none}}
+
+  .nf-logo{margin-bottom:44px;position:relative;z-index:1}
+  .nf-logo img{height:32px;width:auto}
+
+  .nf-mascot{font-size:clamp(3.4rem,10vw,5rem);margin-bottom:8px;display:inline-block;animation:nfWobble 2.6s ease-in-out infinite;position:relative;z-index:1}
+  @keyframes nfWobble{0%,100%{transform:rotate(-6deg)}50%{transform:rotate(6deg)}}
+  @media (prefers-reduced-motion:reduce){.nf-mascot{animation:none}}
+
+  .nf-num{font-family:"DM Serif Display",serif;font-style:italic;font-size:clamp(4.5rem,16vw,8.5rem);color:var(--white-20,rgba(255,255,255,.16));line-height:1;margin-bottom:4px;position:relative;z-index:1;letter-spacing:-.02em}
+  .nf-num span{display:inline-block;animation:nfPulse 1.8s ease-in-out infinite}
+  .nf-num span:nth-child(2){animation-delay:.15s}
+  .nf-num span:nth-child(3){animation-delay:.3s}
+  @keyframes nfPulse{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+  @media (prefers-reduced-motion:reduce){.nf-num span{animation:none}}
+
+  .nf-title{font-family:"DM Serif Display",serif;font-style:italic;font-size:clamp(1.8rem,4.5vw,2.7rem);color:var(--white);margin-bottom:16px;max-width:600px;position:relative;z-index:1}
+  .nf-text{font-size:1.02rem;line-height:1.75;color:var(--mid);max-width:490px;margin:0 auto 12px;position:relative;z-index:1}
+  .nf-text-sub{font-size:.86rem;line-height:1.7;color:var(--light);max-width:460px;margin:0 auto 40px;position:relative;z-index:1;font-style:italic}
+
+  .nf-actions{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-bottom:48px;position:relative;z-index:1}
+  .nf-btn{display:inline-flex;align-items:center;gap:8px;font-size:.88rem;font-weight:500;padding:14px 28px;border-radius:100px;text-decoration:none;transition:transform .2s ease,background .2s ease}
+  .nf-btn-primary{background:var(--white);color:var(--black)}
+  .nf-btn-primary:hover{transform:translateY(-2px) scale(1.02);background:var(--white-90,#e5e5e5)}
+  .nf-btn-outline{background:transparent;color:var(--white);border:1px solid var(--border-l,var(--border))}
+  .nf-btn-outline:hover{border-color:var(--white);transform:translateY(-2px)}
+
+  .nf-links{display:flex;gap:20px;flex-wrap:wrap;justify-content:center;font-size:.82rem;position:relative;z-index:1}
+  .nf-links a{color:var(--mid);text-decoration:none;transition:color .2s ease}
+  .nf-links a:hover{color:var(--white)}
+
+  .nf-footer-joke{margin-top:52px;font-size:.76rem;color:var(--light);opacity:.7;position:relative;z-index:1;max-width:420px}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["EducationalOrganization", "LocalBusiness"],
+  "name": "L'École des Coachs",
+  "url": "https://lecoledescoachs.fr/",
+  "logo": "https://lecoledescoachs.fr/assets/logo/logo-dark.webp",
+  "image": "https://lecoledescoachs.fr/assets/og/og-eclipse-logo.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "537 Rue de la Juine",
+    "addressLocality": "Olivet",
+    "postalCode": "45160",
+    "addressRegion": "Centre-Val de Loire",
+    "addressCountry": "FR"
+  },
+  "geo": { "@type": "GeoCoordinates", "latitude": 47.8693, "longitude": 1.9092 },
+  "telephone": "+33781282604",
+  "priceRange": "€€",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "26",
+    "bestRating": "5"
+  },
+  "dateModified": "2026-09-07",
+  "sameAs": [
+    "https://www.instagram.com/ecoledescoachs/",
+    "https://www.youtube.com/@Lecoledescoachs/",
+    "https://www.linkedin.com/company/lecoledescoachs",
+    "https://share.google/7TFzUe0DtElvUiOQ4"
+  ]
+}
+</script>
+</head>
+<body>
+<div class="nf-wrap">
+  <span class="nf-bg-item">🏋️</span>
+  <span class="nf-bg-item">⭐</span>
+  <span class="nf-bg-item">💪</span>
+  <span class="nf-bg-item">🏃</span>
+  <span class="nf-bg-item">⭐</span>
+  <span class="nf-bg-item">🥇</span>
+
+  <a href="/" class="nf-logo">
+    <img class="logo-light-img" src="assets/logo/logo-light.webp" alt="L'École des Coachs" width="500" height="120" style="height:32px;width:auto;">
+    <img class="logo-dark-img" src="assets/logo/logo-dark.webp" alt="L'École des Coachs" width="509" height="120" style="height:32px;width:auto;">
+  </a>
+
+  <div class="nf-mascot">🧭</div>
+  <div class="nf-num"><span>4</span><span>0</span><span>4</span></div>
+  <h1 class="nf-title">Bah alors, tu t'es perdu ?</h1>
+  <p class="nf-text">Cette page a séché la séance. Elle n'existe pas, ou plus, et honnêtement on ne sait pas trop où elle est passée non plus.</p>
+  <p class="nf-text-sub">Même le meilleur coach ne peut pas te faire progresser sur un exercice qui n'existe pas. Reviens sur le programme, on va s'occuper de toi.</p>
+
+  <div class="nf-actions">
+    <a href="/cqp-instructeur-fitness" class="nf-btn nf-btn-primary">Voir le CQP Instructeur Fitness</a>
+    <a href="/" class="nf-btn nf-btn-outline">Retour au vestiaire (accueil)</a>
+  </div>
+
+  <nav class="nf-links">
+    <a href="/prepa-tep">Prépa TEP</a>
+    <a href="/calendrier-formation">Calendrier de formation</a>
+    <a href="/financer-son-cqp-if-toutes-les-solutions">Financer sa formation</a>
+    <a href="/blog">Blog</a>
+    <a href="/faq">FAQ</a>
+    <a href="/a-propos">À propos</a>
+  </nav>
+
+  <p class="nf-footer-joke">Zéro répétition trouvée sur cette page. On te laisse quand même sur un 404, pas un 500.</p>
+</div>
+<div class="gr-badge" id="grBadge">
+  <a href="https://share.google/7TFzUe0DtElvUiOQ4" target="_blank" rel="noopener noreferrer">
+    <span class="gr-badge-icon"><svg viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg></span>
+    <span class="gr-badge-body">
+      <span class="gr-badge-label">Avis Google</span>
+      <span class="gr-badge-score">5,0<span>/5</span></span>
+      <span class="gr-badge-stars">★★★★★<span class="gr-badge-count">26 avis</span></span>
+    </span>
+  </a>
+  <button class="gr-badge-close" id="grBadgeClose" aria-label="Fermer">✕</button>
+</div>
+<script>
+(function(){
+  var badge = document.getElementById('grBadge');
+  var closeBtn = document.getElementById('grBadgeClose');
+  if (!badge) return;
+  if (sessionStorage.getItem('grBadgeClosed')) return;
+  setTimeout(function(){ badge.classList.add('gr-visible'); }, 1200);
+  closeBtn.addEventListener('click', function(e){
+    e.preventDefault();
+    badge.classList.remove('gr-visible');
+    sessionStorage.setItem('grBadgeClosed', '1');
+  });
+})();
+</script>
+</body>
+</html>

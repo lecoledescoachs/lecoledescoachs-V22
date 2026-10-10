@@ -1,0 +1,5 @@
+SITE COMPLET lecoledescoachs.fr (10 octobre 2026) : 6 zips + ce fichier.
+1. Mettre les 6 zips dans un meme dossier.
+2. Les extraire TOUS dans le meme dossier de destination (fusionner si on demande).
+3. Resultat : 1280 fichiers = le site complet (pages, images, videos, fonctions Netlify). Pousser / deployer ce dossier.
+Avant : tep-seats doit renvoyer 20 places pour le TEP du 19 decembre ; garder les variables Netlify.

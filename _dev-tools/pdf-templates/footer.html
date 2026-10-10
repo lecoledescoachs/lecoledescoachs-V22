@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 0 40px; font-family: Helvetica, Arial, sans-serif; }
+  .fwrap { overflow: hidden; border-top: 1px solid #ddd; padding-top: 6px; font-size: 8px; color: #888; }
+  .fleft { float: left; }
+  .fright { float: right; }
+</style>
+<script>
+  // Pagination automatique. IMPORTANT : utiliser unescape() seul, PAS
+  // decodeURIComponent(unescape()) — la double couche casse silencieusement
+  // la substitution (testé et confirmé sur ce projet).
+  function subst() {
+    var vars = {};
+    var x = document.location.search.substring(1).split('&');
+    for (var i in x) {
+      var z = x[i].split('=', 2);
+      vars[z[0]] = unescape(z[1]);
+    }
+    var els = document.getElementsByClassName('page');
+    for (var i = 0; i < els.length; i++) els[i].textContent = vars['page'];
+    var els2 = document.getElementsByClassName('topage');
+    for (var i = 0; i < els2.length; i++) els2[i].textContent = vars['topage'];
+  }
+</script>
+</head>
+<body onload="subst()">
+  <div class="fwrap">
+    <span class="fleft">L'École des Coachs, 537 rue de la Juine, 45160 Olivet &middot; contact@lecoledescoachs.fr &middot; 07 81 28 26 04</span>
+    <span class="fright">Page <span class="page"></span> / <span class="topage"></span></span>
+  </div>
+</body>
+</html>

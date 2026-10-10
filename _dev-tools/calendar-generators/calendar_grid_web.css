@@ -1,0 +1,49 @@
+/* CSS pour la grille calendrier — version SITE WEB (thème sombre, variables CSS).
+   Utilise float, pas flexbox/grid, par convention établie sur ce projet
+   (voir DEVELOPPEUR.md section 3). Fonctionne très bien en float aussi. */
+
+.rc-wrap { overflow: hidden; }
+.rc-month {
+  float: left; width: 19%; margin-right: 1.25%; margin-bottom: 16px;
+  background: var(--black-2); border: 1px solid var(--border); border-radius: 14px;
+  padding: 12px 8px 8px; box-sizing: border-box;
+}
+.rc-month:nth-child(5n) { margin-right: 0; }
+.rc-month-title { font-size: .78rem; font-weight: 700; color: var(--white); text-align: center; margin-bottom: 8px; }
+.rc-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+.rc-dh { font-size: .58rem; font-weight: 700; color: var(--light); text-align: center; padding-bottom: 4px; }
+.rc-cell {
+  text-align: center; vertical-align: middle; font-size: .66rem; color: var(--white-60);
+  background: var(--black-3); border-radius: 3px; padding: 4px 0;
+}
+.rc-empty { background: transparent; }
+
+/* Couleurs de catégorie — à adapter selon vos besoins.
+   Convention déjà établie sur ce site (voir DEVELOPPEUR.md section 4.1) :
+   rouge = alerte/évaluation, vert = cours/valide, ambre = TEP/spécial,
+   indigo = rattrapages. Pour distinguer plusieurs PROMOS (pas des catégories),
+   utiliser des teintes différentes (cyan/rose/violet) pour ne pas entrer en
+   conflit avec le sens déjà établi de rouge/vert/indigo ailleurs sur la page. */
+.rc-tep { background: #b8860b; color: #0a0a0a; font-weight: 700; }
+.rc-cours { background: #4ade80; color: #0a0a0a; font-weight: 700; }
+
+.rc-legend { overflow: hidden; margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--border); font-size: .78rem; color: var(--white-60); }
+.rc-legend-item { float: left; margin-right: 22px; margin-bottom: 6px; overflow: hidden; }
+.rc-legend-dot { float: left; width: 12px; height: 12px; border-radius: 3px; margin-right: 8px; margin-top: 2px; }
+
+/* Responsive : 5 mois/ligne desktop -> 2/ligne tablette -> 1/ligne mobile.
+   Le texte grossit sur mobile (plus de place disponible en colonne unique). */
+@media (max-width: 900px) {
+  .rc-month { width: 48%; margin-right: 4% !important; margin-bottom: 12px; }
+  .rc-month:nth-child(2n) { margin-right: 0 !important; }
+}
+@media (max-width: 480px) {
+  .rc-month { width: 100% !important; margin-right: 0 !important; }
+  .rc-cell { font-size: .82rem; }
+  .rc-month-title { font-size: .92rem; }
+}
+
+/* ⚠️ Ne pas oublier sur toute nouvelle page : le reste des règles mobiles
+   globales du site (padding .container, nav-hide-mobile, etc.) — voir
+   DEVELOPPEUR.md section 9, piège n°5. Toujours partir d'une page existante
+   complète plutôt que de reconstruire le <head>/nav à la main. */

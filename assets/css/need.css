@@ -1,0 +1,28 @@
+/* Bandeau « La France a besoin de coachs » : chiffres sourcés, compteurs animés */
+.need-wrap{padding:70px 0 20px;position:relative}
+.need-box{max-width:1040px;margin:0 auto;padding:36px 32px 30px;border:1px solid var(--border,#2a2a2e);border-radius:24px;overflow:hidden;position:relative;
+  background:radial-gradient(720px 280px at 12% 0%,color-mix(in srgb, var(--white) 16%, transparent),transparent 70%),linear-gradient(160deg,var(--black-2,#141416),color-mix(in srgb,var(--black-2,#141416) 92%,var(--white) 8%))}
+.need-eyebrow{display:flex;align-items:center;gap:10px;margin:0 0 10px;font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--white)}
+.need-eyebrow::before{content:"";width:26px;height:1px;background:currentColor;opacity:.7}
+.need-box h2{font-family:"DM Serif Display",Georgia,serif;font-style:italic;font-weight:400;font-size:clamp(1.5rem,3.2vw,2.2rem);line-height:1.15;color:var(--white,#fff);margin:0 0 26px}
+.need-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0}
+.need-stat{padding:4px 26px;border-left:1px solid var(--border,#2a2a2e)}
+.need-stat:first-child{padding-left:0;border-left:0}
+.need-num{font-family:"DM Serif Display",Georgia,serif;font-style:italic;font-size:clamp(2.5rem,5.2vw,3.7rem);line-height:1;margin:0 0 10px;color:var(--white);font-variant-numeric:tabular-nums}
+.need-lbl{margin:0;font-size:.9rem;line-height:1.55;color:var(--white-90,var(--white,#eee))}
+.need-src{margin:24px 0 0;padding-top:16px;border-top:1px dashed var(--border,#2a2a2e);font-size:.78rem;line-height:1.6;color:var(--light,#999)}
+.need-src a{color:var(--white,#fff);text-decoration:underline;text-underline-offset:3px}
+.need-links{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0 0}
+.need-links a{display:inline-block;padding:9px 16px;border-radius:99px;border:1px solid var(--border,#2a2a2e);background:rgba(255,255,255,.03);color:var(--white,#fff);font-size:.84rem;text-decoration:none;transition:transform .3s,border-color .3s,background .3s}
+.need-links a:hover,.need-links a:focus-visible{transform:translateY(-2px);border-color:color-mix(in srgb, var(--white) 65%, transparent);background:color-mix(in srgb, var(--white) 10%, transparent);outline:none}
+@media (max-width:760px){.need-wrap{padding:48px 0 12px}.need-box{padding:26px 20px 24px}.need-grid{grid-template-columns:1fr;gap:18px}.need-stat,.need-stat:first-child{padding:0 0 18px;border-left:0;border-bottom:1px solid var(--border,#2a2a2e)}.need-stat:last-child{border-bottom:0;padding-bottom:0}}
+@media (scripting:enabled) and (prefers-reduced-motion:no-preference){
+  .need-wrap .need-box>*,.need-wrap .need-stat{opacity:0;transform:translateY(18px)}
+  .need-wrap.need-in .need-box>*,.need-wrap.need-in .need-stat{opacity:1;transform:none;transition:opacity .8s cubic-bezier(.2,.7,.2,1),transform .8s cubic-bezier(.2,.7,.2,1)}
+  .need-wrap.need-in .need-stat:nth-child(1){transition-delay:.15s}.need-wrap.need-in .need-stat:nth-child(2){transition-delay:.3s}.need-wrap.need-in .need-stat:nth-child(3){transition-delay:.45s}
+  .need-wrap.need-in .need-num{animation:needPop .9s cubic-bezier(.2,1.2,.4,1) both}
+  .need-wrap.need-in .need-stat:nth-child(2) .need-num{animation-delay:.15s}.need-wrap.need-in .need-stat:nth-child(3) .need-num{animation-delay:.3s}
+  @keyframes needPop{0%{transform:scale(.86);opacity:.2}60%{transform:scale(1.04)}100%{transform:scale(1);opacity:1}}
+}
+.need-box h2 .need-flag{display:inline-block;vertical-align:-.1em;margin-right:.35em;border-radius:3px;box-shadow:0 0 0 1px color-mix(in srgb, var(--white) 18%, transparent)}
+.need-box .need-world{margin:18px 0 0;font-family:"DM Serif Display",Georgia,serif;font-style:italic;font-size:clamp(1.15rem,2.4vw,1.5rem);color:var(--white,#fff)}
